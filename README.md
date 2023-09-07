@@ -1,5 +1,5 @@
 # Zooming locator map
-***Slowly fly to a location with Mapbox GL JS***
+*Slowly fly to a location with Mapbox GL JS*
 
 Use: In a story about Nebraska Gov. Jim Pillen's pig farms, which are spread throughout the state, this map was used next to a farm image to help readers better picture the farm's location.
 
